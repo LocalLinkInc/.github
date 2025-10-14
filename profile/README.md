@@ -24,7 +24,7 @@ We envision a platform where **skills meet opportunity** — turning neighborhoo
 
 ## 👥 Founders & Leadership
 
-### **🧑‍💻 Oliver Liljeblad — Co-Founder & Chief Technology Officer (CTO)**
+### **🧑‍💻 Oliver — Co-Founder & Chief Technology Officer (CTO)**
 Oliver leads the technical vision and product architecture at LocalLink.  
 He studies **Mathematics and Computer Science** and is passionate about creating scalable, human-centered technology.  
 With experience in software engineering, data analytics, and design thinking, Oliver focuses on building reliable, user-friendly systems that make real-world impact.
@@ -33,7 +33,7 @@ With experience in software engineering, data analytics, and design thinking, Ol
 
 ---
 
-### **💼 Ben [Last Name] — Co-Founder & Chief Financial Officer (CFO)**
+### **💼 Ben — Co-Founder & Chief Financial Officer (CFO)**
 Ben oversees LocalLink’s financial strategy, operations, and long-term business planning.  
 He holds a **degree in Computer Science and Accounting** and is currently pursuing his **MBA** in the United States.  
 His combination of financial insight and technical literacy drives LocalLink’s business sustainability and growth.
