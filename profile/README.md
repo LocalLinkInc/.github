@@ -44,5 +44,24 @@ His combination of financial insight and technical literacy drives LocalLink’s
 
 ## 🏗️ Company Structure
 
-LocalLink Inc is a **startup in early development**, currently organized as follows:
+LocalLink Inc is a **startup in early development**
+
+📩 **Contact:**  
+- Email: LocalLinkInc@outlook.com
+- LinkedIn: [coming soon]  
+- GitHub: https://github.com/LocalLinkInc
+
+---
+
+## ⚖️ Legal
+
+© 2025 LocalLink Inc. All rights reserved.  
+This repository and its contents are proprietary to LocalLink Inc unless otherwise noted.
+
+---
+
+## 🧠 Motto
+
+> “Think global. Act local. Build meaningful connections.”
+
 
