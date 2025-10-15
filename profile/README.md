@@ -33,13 +33,6 @@ With experience in software engineering, data analytics, and design thinking, Ol
 
 ---
 
-### **💼 Ben — Co-Founder & Chief Financial Officer (CFO)**
-Ben oversees LocalLink’s financial strategy, operations, and long-term business planning.  
-He holds a **degree in Computer Science and Accounting** and is currently pursuing his **MBA** in the United States.  
-His combination of financial insight and technical literacy drives LocalLink’s business sustainability and growth.
-
-**Key Strengths:** Startup finance, business modeling, full-stack development, operations, and strategic planning.
-
 ---
 
 ## 🏗️ Company Structure
