@@ -24,18 +24,11 @@ We envision a platform where **skills meet opportunity** — turning neighborhoo
 
 ## 👥 Founders & Leadership
 
-### **🧑‍💻 Oliver — Co-Founder & Chief Technology Officer (CTO)**
-Oliver leads the technical vision and product architecture at LocalLink.  
-He studies **Mathematics and Computer Science** and is passionate about creating scalable, human-centered technology.  
-With experience in software engineering, data analytics, and design thinking, Oliver focuses on building reliable, user-friendly systems that make real-world impact.
-
-**Key Strengths:** Full-stack development, data analytics, AI/ML integration, UX-focused product design.
+### **🧑‍💻 Oliver — Co-Founder**
+Oliver is a 20 year old univeresity student born and raised in Stockholm, Sweden.
+He studies **Mathematics and Computer Science** and is passionate about creating scalable, human-centered technology.
 
 ---
-
----
-
-## 🏗️ Company Structure
 
 LocalLink Inc is a **startup in early development**
 
